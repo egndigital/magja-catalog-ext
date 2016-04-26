@@ -2,3 +2,4 @@
 /deploy.properties
 target
 .directory
+.idea
