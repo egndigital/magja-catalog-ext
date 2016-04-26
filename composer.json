@@ -1,7 +1,7 @@
 {
   "name": "egndigital/magja-catalog-ext",
   "type": "magento-module",
-  "description": "Magja Magento Extensionsr",
+  "description": "Magja Magento Extensions",
   "homepage": "https://github.com/egndigital/magja-catalog-ext",
   "require": {
     "php": ">=5.3",
