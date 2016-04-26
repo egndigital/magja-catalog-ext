@@ -1,0 +1,17 @@
+{
+  "name": "egndigital/magja-catalog-ext",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Magja Magento Extensionsr",
+  "homepage": "https://github.com/egndigital/magja-catalog-ext",
+  "require": {
+    "php": ">=5.3",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Rick Nicol",
+      "role": "Contributor"
+    }
+  ]
+}
